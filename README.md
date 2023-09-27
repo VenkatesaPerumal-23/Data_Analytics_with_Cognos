@@ -1,1 +1,1 @@
-# Data_Analytics_with_Cognos
+# Data_Analytics_with_Cognos project
